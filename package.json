@@ -1,0 +1,29 @@
+{
+  "name": "rsschool-codejam",
+  "description": "codejam",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "eslint",
+    "test": "mocha *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenyingTheTruth/rsschool-codejam.git"
+  },
+  "keywords": [
+    "codejam"
+  ],
+  "author": "Anton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenyingTheTruth/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/DenyingTheTruth/rsschool-codejam#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "mocha": "^5.2.0",
+    "npm-run-all": "^4.1.3"
+  }
+}
